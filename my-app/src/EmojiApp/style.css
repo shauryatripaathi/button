@@ -1,0 +1,14 @@
+.navBar{
+    background-color: black;
+    padding: 10px;
+}
+
+.emojiList{
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    cursor: pointer;
+}
